@@ -2,7 +2,7 @@
 """
 Created on Sun Jul  2 12:03:08 2023
 
-@author: thars
+@author: Hit
 """                                   
 import re 
 import random
